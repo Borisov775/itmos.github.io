@@ -1,2 +1,2 @@
-# itmos.github.io
+# itmorepo.github.io
 Some educational resourses
